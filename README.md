@@ -1,0 +1,2 @@
+# Hybrid-Movie-Recommendation-system
+The main aim of this project is to develop a hybrid movie recommender system that: • incorporates and enhances the properties of existing recommendation systems • Adapt new approaches in order to decrease system runtime • Reveal latent user and movie relations with great accuracy. To achieve this, we have to evaluate all the existing recommendation techniques to find better models which can be fused with our hybrid recommendation model 
