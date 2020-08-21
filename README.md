@@ -19,13 +19,13 @@ Dataset : Movielens
 https://grouplens.org/datasets/movielens/100k
 
 # Algorithms Implemented
-     #Content based filtering
-     #Collaborative Filtering
-          #Memory based collaborative filtering
-                #User-Item Filtering
-          #Item-Item Filtering
-    #Model based collaborative filtering
-          #Single Value Decomposition(SVD)
-          #SVD++
-    #Hybrid Model
-        #Content Based + SVD
+     1. Content based filtering
+     2. Collaborative Filtering
+          2.1. Memory based collaborative filtering
+                 2.1.1. User-Item Filtering
+                 2.1.2. Item-Item Filtering
+         2.2. Model based collaborative filtering
+                2.2.1. Single Value Decomposition(SVD)
+                2.2.2. SVD++
+    3. Hybrid Model
+           Content Based + SVD
